@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Vince <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Maurokrekels/MauroKrekels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something really cool 😉
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on more open source projects.
+- Development, Lua, Javascript, Html, Css</b>
+- 📫 How to reach me: [@MauroKrekels#7064][Discord]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.com/users/720601095541620757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="senticac" height="30" width="40" /></a>
+</p>
