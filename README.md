@@ -1,9 +1,8 @@
 ### Hi there, I'm Mauro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
-- Development, Lua, Javascript, Html, Css Php</b>
+- 🔭 I’m currently working on something really cool.
+- 🌱 I’m currently learning everything.
+- Development, Lua, Javascript, Html, Css Php.</b>
 - 📫 How to reach me: [@MauroKrekels#7064][Discord]
 
 <h3 align="left">Connect with me:</h3>
