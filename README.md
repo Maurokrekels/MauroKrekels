@@ -5,7 +5,7 @@
 - Development, Lua, Javascript, Html, Css Php.</b>
 - 📫 How to reach me: [@MauroKrekels#7064][Discord]
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me with:</h3>
 <p align="left">
 <a href="https://discord.com/users/720601095541620757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="senticac" height="30" width="40" /></a>
 </p>
