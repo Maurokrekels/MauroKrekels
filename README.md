@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- Development, Lua, Javascript, Html, Css</b>
+- Development, Lua, Javascript, Html, Css Php</b>
 - 📫 How to reach me: [@MauroKrekels#7064][Discord]
 
 <h3 align="left">Connect with me:</h3>
