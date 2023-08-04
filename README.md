@@ -7,5 +7,5 @@
 
 <h3 align="left">Connect me with:</h3>
 <p align="left">
-<a href="https://discord.com/users/720601095541620757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="senticac" height="30" width="40" /></a>
+<a href="https://discord.com/users/720601095541620757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maurokrekels" height="30" width="40" /></a>
 </p>
