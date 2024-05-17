@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something really cool.
 - 🌱 I’m currently learning everything.
-- Development, Lua, Javascript, Html, Css Php.</b>
+- Development, Lua, JavaScript, HTML, CSS PHP, C#.</b>
 - 📫 How to reach me: [@MauroKrekels#7064][Discord]
 
 <h3 align="left">Connect me with:</h3>
