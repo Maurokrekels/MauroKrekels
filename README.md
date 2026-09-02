@@ -28,8 +28,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-## GitHub
-
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maurokrekels&show_icons=true&hide_border=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurokrekels&layout=compact&hide_border=true&theme=dark)
